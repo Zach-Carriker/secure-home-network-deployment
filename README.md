@@ -1,5 +1,17 @@
 # 🔐 Secure Home Network Deployment
 
+## 🔍 TL;DR (Key Takeaways)
+
+- Conducted real-world vulnerability scans on my personal home network using **Nessus Essentials**
+- Identified and remediated critical SSL/TLS issues, SMB signing weaknesses, and router misconfigurations
+- Replaced ISP-provided gateway with a hardened **TP-Link AX55**, deployed custom Wi-Fi security settings
+- Applied **host-level security hardening** on a Windows laptop using registry edits and Policy Plus
+- Isolated IoT devices like a Smart TV based on post-remediation scan findings
+- Documented before-and-after results with screenshots and a full technical report
+
+> This project demonstrates practical experience in network hardening, endpoint security, vulnerability assessment, and real-world remediation — not just theory.
+
+
 This project documents the deployment and hardening of a secure home network using **Nessus Essentials** for vulnerability assessment. It includes replacing an ISP-provided router with a TP-Link Archer AX55, scanning multiple devices, and implementing layered security enhancements across the network.
 
 ---
