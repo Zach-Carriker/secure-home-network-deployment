@@ -11,6 +11,7 @@
 
 > This project demonstrates practical experience in network hardening, endpoint security, vulnerability assessment, and real-world remediation — not just theory.
 
+---
 
 This project documents the deployment and hardening of a secure home network using **Nessus Essentials** for vulnerability assessment. It includes replacing an ISP-provided router with a TP-Link Archer AX55, scanning multiple devices, and implementing layered security enhancements across the network.
 
