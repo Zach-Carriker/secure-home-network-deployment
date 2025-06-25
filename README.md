@@ -57,7 +57,7 @@ To enhance the security posture of a residential network, I followed a structure
 
 ## 📌 Notes
 
-> *This project is based on a fictionalized home network scenario for educational purposes only.*
+> *This report is the result of a real vulnerability scan and remediation effort performed on my personal home network, intended for cybersecurity portfolio use.*
 
 ---
 
